@@ -1,0 +1,72 @@
+*{
+    font-family: "Sora", sans-serif;
+    font-style: normal;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    margin-top: 164px;
+    margin-bottom: 164px;
+    background-color: #fafaf7;
+}
+
+.boite{
+    width: 368px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5eaf0;
+    box-shadow: 8px 6px 10px #cbcfd4;
+    border-radius: 15px;
+}
+
+
+
+.carte{
+ background-color: #ffffff;
+ padding-bottom: 20px;
+ border-radius: 15px 15px 0px 0px;
+ 
+}
+
+.carte img{
+    width: 336px;
+    height: 152px;
+    padding: 16px;
+    border-radius: 30px;
+}
+
+.auteur{
+    margin-top: 2px;
+    background-color: #ffffff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 0px 0px 15px 15px;
+}
+
+
+
+input[type=button]{
+    width: 100px;
+    border-radius: 15px;
+    border: none;
+    padding: 6px 16px 6px 16px;
+    margin-left: 16px;
+    color: #883ae1;
+    background-color: #e6d6fc;
+}
+
+h3, p{
+    margin-left: 16px;
+}
+
+h3{
+    margin-top: 16px;
+    margin-bottom: 6px;
+}
+
